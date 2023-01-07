@@ -1,0 +1,10 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "liveServer.settings.CustomBrowser": "chrome"
+}

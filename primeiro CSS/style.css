@@ -1,0 +1,29 @@
+li {
+    color:green
+}
+
+h1 {
+    color: #ff00aa;
+    background-color: #000000;
+    border: 1px dotted yellow;
+}
+
+body {
+    background-image: url('https://live.staticflickr.com/65535/48478269442_ef3940c4af_b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yellow-text {
+    color: orange;
+    font-size: 20px;
+}
+
+
+.big-text {
+    font-size: 40px;
+}
+
+#europa-text {
+    font-size: 10px
+}

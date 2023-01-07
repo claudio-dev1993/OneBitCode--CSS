@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&family=Open+Sans:wght@300;400&family=Roboto:wght@100;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h4, p {
+    margin: 1rem 0 1rem 0;
+}
+
+.date {
+    font-family: 'Roboto', sans-serif;
+    color: #008080 ;
+}
+
+.post-content {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    background-color: #fffafa ;
+    padding: 2rem 3rem 2rem 2rem;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+

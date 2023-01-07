@@ -1,0 +1,29 @@
+* {
+
+}
+
+body {
+    background-image: url('https://live.staticflickr.com/65535/48478269442_ef3940c4af_b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li a {
+/* seletor de descendente */
+}
+
+li > a {
+/* seletor de filho */
+}
+
+h1 + h4 {
+/* seletor de elemento proximo (adjacente) */
+}
+
+a[href='/recibo'] {
+/* seleciona todo a que tenha o mesmo href */
+}
+
+li:nth-of-type(2) {
+    /* psudoclasse que seleciona todo segundo elemento li */
+}
